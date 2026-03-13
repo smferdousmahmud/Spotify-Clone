@@ -369,20 +369,3 @@ body {
 }
 
 /* Responsive */
-@media (max-width: 768px) {
-    .sidebar {
-        width: 100%;
-        position: relative;
-        height: auto;
-    }
-    .main-content {
-        margin-left: 0;
-    }
-    .player-bar {
-        flex-direction: column;
-        gap: 16px;
-    }
-    .player-controls {
-        margin: 0;
-    }
-}
